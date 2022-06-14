@@ -1,3 +1,4 @@
+Lumache has its documentation hosted on Read the Docs.
 Read the Docs Sphinx Theme
 ==========================
 
